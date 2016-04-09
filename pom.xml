@@ -8,8 +8,6 @@
     <modules>
         <module>PriotelusJSF</module>
         <module>PriotelusREST</module>
-        <module>Servlet</module>
-        <module>WebSocket</module>
         <module>PriotelusCDI</module>
         <module>PriotelusJSON</module>
     </modules>
