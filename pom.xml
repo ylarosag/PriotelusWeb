@@ -5,6 +5,14 @@
     <artifactId>PriotelusWeb</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
+    <modules>
+        <module>PriotelusJSF</module>
+        <module>PriotelusREST</module>
+        <module>Servlet</module>
+        <module>WebSocket</module>
+        <module>PriotelusCDI</module>
+        <module>PriotelusJSON</module>
+    </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
