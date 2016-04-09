@@ -10,6 +10,7 @@
         <module>PriotelusREST</module>
         <module>PriotelusCDI</module>
         <module>PriotelusJSON</module>
+        <module>PriotelusServlet</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
